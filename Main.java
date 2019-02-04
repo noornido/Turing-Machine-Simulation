@@ -23,7 +23,6 @@ public class Main {
 		+ "but first state, if the '<' symbol is checked on the tape or not "
 		+ "(Press 'y' if yes, and any key if not)");
 		
-		
 		String[] transFn;
 		if(in.nextLine().charAt(0) == 'y')
 		{
